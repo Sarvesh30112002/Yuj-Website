@@ -1,0 +1,42 @@
+<div class="container-fluid">
+                <div class="d-flex align-items-center">
+                    <div style="margin-left: 5px;" class="site-logo mr-auto w-24">
+                        <a href="index.html" style="font-size: 45px;">
+                            <img style="position: relative; bottom: 5px; left: 12px;" src="Images/YUJ1.png" alt=""
+                                width="50" height="44">
+                            YUJ</a>
+                    </div>
+
+                    <div class="mx-auto text-center">
+                        <nav class="site-navigation position-relative text-right" role="navigation">
+                            <ul class="site-menu main-menu js-clone-nav mx-auto d-none d-lg-block  m-0 p-0">
+                                <li style="font-size: 1.3rem; font-weight: 350;"><a href="Index.html"
+                                        class="nav-link">Home</a></li>
+                                <li style="font-size: 1.3rem; font-weight: 350;"><a href="About.html" class="nav-link">About</a>
+                                </li>
+                                <li style="font-size: 1.3rem; font-weight: 350;"><a href="Event.html" class="nav-link">Events</a>
+                                </li>
+                                <li style="font-size: 1.3rem; font-weight: 350;"><a href="Team.html" class="nav-link">Team</a>
+                                </li>
+                                <li style="font-size: 1.3rem; font-weight: 350;"><a href="Asanas.html" class="nav-link">Asanas</a>
+                                </li>
+                                <li style="font-size: 1.3rem; font-weight: 350;"><a href="templatemo_520_highway/Gallery.html"
+                                        class="nav-link">Gallery</a></li>
+                            </ul>
+                        </nav>
+                    </div>
+
+                    <div class="ml-auto w-24">
+                        <nav class="site-navigation position-relative text-right" role="navigation">
+                            <ul
+                                class="site-menu main-menu site-menu-dark js-clone-nav mr-auto d-none d-lg-block m-0 p-0">
+                                <li class="cta"><a href="Contact.html" class="nav-link"><span>Contact Us</span></a>
+                                </li>
+                            </ul>
+                        </nav>
+                        <a href="#"
+                            class="d-inline-block d-lg-none site-menu-toggle js-menu-toggle text-black float-right"><span
+                                class="icon-menu h3"></span></a>
+                    </div>
+                </div>
+            </div>
